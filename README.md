@@ -39,9 +39,13 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection:
+CIRCUIT DIAGRAM: 
 ![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/Screenshot%202026-03-14%20233809.png?raw=true)
+
 Tabulation:1
+![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/3%20exp%201%20beee.jpeg?raw=true)
+
 
 	
 Cross connection: CIRCUIT DIAGRAM:
