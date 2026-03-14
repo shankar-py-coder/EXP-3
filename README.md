@@ -39,8 +39,8 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection:
-CIRCUIT DIAGRAM: 
+Direct connection:CIRCUIT DIAGRAM:
+
 ![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/Screenshot%202026-03-14%20233809.png?raw=true)
 
 Tabulation:1
@@ -50,7 +50,10 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/Screenshot%202026-03-14%20233750.png?raw=true)
+
 Tabulation:2
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
