@@ -44,7 +44,7 @@ Direct connection:CIRCUIT DIAGRAM:
 ![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/Screenshot%202026-03-14%20233809.png?raw=true)
 
 Tabulation:1
-![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/3%20exp%201%20beee.jpeg?raw=true)
+<img src="https://github.com/shankar-py-coder/EXP-3/blob/main/3%20exp%201%20beee.jpeg?raw=true" height="400" width="700">
 
 
 	
@@ -54,6 +54,6 @@ Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
 
-![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/3%20exp%202%20beee.jpeg?raw=true)
+<img src="https://github.com/shankar-py-coder/EXP-3/blob/main/3%20exp%202%20beee.jpeg?raw=true" height="400" width="700">
 RESULT:
 Thus the staircase wiring is connected and tested.
