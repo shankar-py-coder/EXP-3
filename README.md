@@ -44,6 +44,7 @@ Direct connection:CIRCUIT DIAGRAM:
 ![image alt](https://github.com/shankar-py-coder/EXP-3/blob/main/Screenshot%202026-03-14%20233809.png?raw=true)
 
 Tabulation:1
+
 <img src="https://github.com/shankar-py-coder/EXP-3/blob/main/3%20exp%201%20beee.jpeg?raw=true" height="400" width="700">
 
 
